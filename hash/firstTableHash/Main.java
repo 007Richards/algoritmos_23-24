@@ -1,3 +1,8 @@
+/* Date: 25/oct/2023
+   Autor: Ricardo Fabian Zuniga
+   Indicacion: Crear una tabla hash que almacena datos String mediante una funcion hash.
+*/
+
 public class Main {
     static int size = 13;
 
